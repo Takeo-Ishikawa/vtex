@@ -1,0 +1,25 @@
+{
+    "produtos":[
+        {
+            "id": 1,
+            "photo": "https://a3.vnda.com.br/1200x/fachi/2021/05/27/17_5_6_678_imagem_20210527_173441.png?1622147811",
+            "name":"Vonder",
+            "description": "descrição do produto",
+            "price": 6000
+        },
+        {
+            "id": 2,
+            "photo": "https://cdn.dooca.store/415/products/e-commerce-48_640x640+fill_ffffff.png?v=1591191500&webp=0",
+            "name":"Makita",
+            "description": "descrição do produto",
+            "price": 8000
+        },
+        {
+            "id": 3,
+            "photo": "https://einhell.com.br/site/wp-content/uploads/tc-dy.jpg",
+            "name":"Einhell",
+            "description": "descrição do produto",
+            "price": 2000
+        }
+    ]
+}
